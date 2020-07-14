@@ -1,2 +1,2 @@
 # Practical-Guide-to-OpenCV
-Easy Explanation
+If you want to build your basics strong then go through the notebook.
